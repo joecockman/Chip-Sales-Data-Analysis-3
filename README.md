@@ -1,4 +1,4 @@
-# Chip-Sales-Data-Analysis-3
+# Quantium-Virtual-Internship-Chip-Sales-Data-Analysis-3
 
 Part 3 of the Quantium virtual internship. The task was to prepare a final report to present to the head of the Chip Sales Retail Team, detailing my analysis and providing recommendations.
 
