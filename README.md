@@ -18,4 +18,4 @@ Overall the virtual internship has been a challenghing yet wonderfully informati
 
 Please enjoy this final of 3 random stock images of potato chips.
 
-![chips](
+![chips](potato_chips.jpg)
