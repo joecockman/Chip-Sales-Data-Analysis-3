@@ -14,7 +14,7 @@ The high level findings from the report were as follows.
 
  - The 3 trial stores all saw improvements during the trial period, though 2/3 were outperformed by their respective control stores. Because of this, it is not clear whether the trial has had a significant impact.
 
-Overall the virtual internship has been a challenghing yet wonderfully informative experience and has allowed realistic hands-on practice of all the skills I have spent the last year working on.
+Overall the virtual internship has been a challenging yet wonderfully informative experience and has allowed realistic hands-on practice of all the skills I have spent the last year working on.
 
 Please enjoy this final of 3 random stock images of potato chips.
 
